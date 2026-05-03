@@ -170,7 +170,7 @@ divvy-bike-share-analysis/
 ## 👤 Author
 
 **Emmanuel Baah Gyan**
-Aspiring Data Analyst | Google Data Analytics Certificate
+Data Analyst | Google Data Analytics Certificate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](YOUR_LINKEDIN_URL)
 [![Tableau](https://img.shields.io/badge/Tableau-View_Dashboard-orange)](YOUR_TABLEAU_PUBLIC_URL_HERE)
